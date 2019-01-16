@@ -2,6 +2,9 @@ function fib(n) {
   let seq = [1,2]
   let sum = 0;
   for (let i = 2; i < n; i++){
+    if (seq[i-1]+seq[i-2] > 4000000) {
+    	break;
+    }
     seq.push(seq[i-1]+seq[i-2]);
   }
   seq.forEach(function(num){
