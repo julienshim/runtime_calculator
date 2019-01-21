@@ -1,4 +1,4 @@
-# Project-Euler
+# Project Euler Playground
 
 Solutions for Project Euler (On-Going)
 
