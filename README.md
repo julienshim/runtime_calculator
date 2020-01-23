@@ -1,6 +1,6 @@
 # Coding Interview Prep
 
-Solutions for Project Euler (On-Going)
+Algorithms, Data Structures, Rosetta Code, and Project Euler (On-Going)
 
 ## Table of Contents
 
