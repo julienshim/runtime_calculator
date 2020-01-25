@@ -1,16 +1,13 @@
 function fiboEvenSum(n) {
   // You can do it!
-  let seq = [1,2]
-  let sum = 0;
+  const fibo = [1,2]
   for (let i = 2; i < n; i++){
-    seq.push(seq[i-1]+seq[i-2]);
+    const prev2 = fibo[i-1]+fibo[i-2]
+    fibo.push(prev2);
   }
-  seq.forEach(function(num){
-    if (num % 2 === 0) {
-      sum += num;
-    }
-  });
-  return sum;
+  const even = fibo.filter( x => x % 2 === 0);
+  const evenSum = even.reduce((acc, val) => acc + val, 0);
+  return evenSum
 }
 
 fiboEvenSum(10);
