@@ -6,8 +6,10 @@ Algorithms, Data Structures, Rosetta Code, and Project Euler (On-Going)
 
 ### Algorithms
 - [Algorithms: Find the Symmetric Difference](https://github.com/julienshim/Coding-Interview-Prep/blob/master/Algorithms/Algorithms-%20Find%20the%20Symmetric%20Difference.js)
-- [Algorithms: Implement Bubble Sort](https://github.com/julienshim/Coding-Interview-Prep/blob/master/Algorithms/Algorithms-%20Implement%20Bubble%20Sort.js)
 - [Algorithms: Inventory Update](https://github.com/julienshim/Coding-Interview-Prep/blob/master/Algorithms/Algorithms-%20Inventory%20Update.js)
+-
+-
+- [Algorithms: Implement Bubble Sort](https://github.com/julienshim/Coding-Interview-Prep/blob/master/Algorithms/Algorithms-%20Implement%20Bubble%20Sort.js)
 
 ### Project Euler
 
