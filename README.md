@@ -10,6 +10,7 @@ Algorithms, Data Structures, Rosetta Code, and Project Euler (On-Going)
 -
 -
 - [Algorithms: Implement Bubble Sort](https://github.com/julienshim/Coding-Interview-Prep/blob/master/Algorithms/Algorithms-%20Implement%20Bubble%20Sort.js)
+- [Algorithms: Implement Selection Sort](https://github.com/julienshim/Coding-Interview-Prep/blob/master/Algorithms/Algorithms-%20Implement%20Selection%20Sort.js)
 
 ### Project Euler
 
