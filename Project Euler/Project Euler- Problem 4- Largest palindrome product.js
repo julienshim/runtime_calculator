@@ -12,7 +12,7 @@ function largestPalindromeProduct(n) {
     };
    };
   };
-	return largest;
+  return largest;
 }
 
 largestPalindromeProduct(3);
